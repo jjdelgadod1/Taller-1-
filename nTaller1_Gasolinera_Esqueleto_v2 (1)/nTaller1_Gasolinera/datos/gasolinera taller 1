@@ -1,0 +1,13 @@
+tipo:premium:20000:5.0
+tipo:medio:15000:5.0
+tipo:regular:10000:5.0
+tipo:ultra:25000:5.0
+surtidor:manuela:premium:0.0:medio:0.0:regular:0.0:ultra:0.0
+surtidor:samuel:premium:0.0:medio:0.0:regular:0.0:ultra:0.0
+surtidor:manuela:premium:0.0:medio:0.0:regular:0.0:ultra:0.0
+surtidor:juan:premium:0.0:medio:0.0:regular:0.0:ultra:0.0
+empleado:carlos:0
+empleado:luis:0
+empleado:juan:0
+empleado:samuel:0
+empleado:manuela:0
